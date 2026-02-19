@@ -1,3 +1,5 @@
+Supply Chain Analytics Dashboard
+
 📌 Problem Statement
 
 This dashboard helps the organization monitor and optimize its end-to-end supply chain operations including supplier performance, inventory levels, shipment efficiency, customer delivery performance, and revenue generation.
