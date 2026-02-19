@@ -173,6 +173,7 @@ Published report to Power BI Service
 Enabled sharing and report access for stakeholders
 
 📊 Insights
+
 1️⃣ Revenue & Profitability Insights
 
 Gross Revenue generated: 186.86M
